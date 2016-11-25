@@ -1,0 +1,1 @@
+This is mdziekie's first git project!
